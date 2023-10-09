@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codrops/[NAME].git"
+    "url": "git://github.com/SadhikAliGit/[NAME].git"
   },
   "keywords": [],
   "author": "Codrops",
   "license": "MIT",
   "homepage": "https://tympanus.net/codrops",
   "bugs": {
-    "url": "https://github.com//[NAME]/issues"
+    "url": "https://github.com/codrops/[NAME]/issues"
   },
   "devDependencies": {
     "parcel": "^2.4.1"
